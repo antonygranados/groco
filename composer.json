@@ -22,7 +22,9 @@
         "drupal/core-project-message": "^8.8",
         "drupal/core-recommended": "^8.8",
         "drupal/core-vendor-hardening": "^8.8",
+        "drupal/graphql": "^3.1",
         "drupal/paragraphs": "^1.11",
+        "drupal/restui": "^1.18",
         "drupal/token": "^1.7"
     },
     "conflict": {

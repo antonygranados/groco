@@ -92,6 +92,7 @@ class ComposerStaticInitce58b5d98b41b71861b22b5cdcf13ed1
             'GuzzleHttp\\Psr7\\' => 16,
             'GuzzleHttp\\Promise\\' => 19,
             'GuzzleHttp\\' => 11,
+            'GraphQL\\' => 8,
         ),
         'E' => 
         array (
@@ -272,6 +273,10 @@ class ComposerStaticInitce58b5d98b41b71861b22b5cdcf13ed1
         'GuzzleHttp\\' => 
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
+        ),
+        'GraphQL\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/webonyx/graphql-php/src',
         ),
         'Egulias\\EmailValidator\\' => 
         array (
